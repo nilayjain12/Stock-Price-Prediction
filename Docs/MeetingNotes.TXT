@@ -1,0 +1,64 @@
+18th June:
+- to display actual values side by side to the predicted values in the table.
+- to make 2 tables, one for 3 days and one for 14 days.
+- to make a graph of predicted values vs actual for 14 days.
+_________________________________________________
+
+21st June:
+- check for dates if it is off by a day or 2 for the predicted vs actual values. Also check whether the model is not overfitting. (modify the graphs if needed).
+- training the model till todays date and predicting next 30 days of the infosys data.
+- training model for apple and google for historical data just what i did for infosys, from 2010 - 2017 and 2017-2018 test data.
+_________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24th June:
+- check infy model on apple stock.
+- train on apple stock | 1: train -> test -> train_on_test -> test -> train_ontest -> train. | 2: train till present and predict 30 days future.
+- do the same on google stock.
+
+
+
+1. run the 6-10-2016 - 06-01-2024 model.
+2. run the model on intel.
+	2.1.  1990 - 2000.
+	2.2. 2002 - 2012.
+	2.3. 2014 - prediction (next 30 days).
+3. Setup models on other machines.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
