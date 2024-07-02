@@ -39,12 +39,28 @@ _________________________________________________
 
 
 
-1. run the 6-10-2016 - 06-01-2024 model.
+1. run the 6-10-2016 - 06-10-2024 model.
 2. run the model on intel.
 	2.1.  1990 - 2000.
 	2.2. 2002 - 2012.
 	2.3. 2014 - prediction (next 30 days).
 3. Setup models on other machines.
+
+
+
+- Uploaded the preprocessed csv files of all the stocks on shared drive.
+- Trained the model on apple stock till june 10th.
+- Trained the model on intel stock from 1990-2000.
+
+
+
+4. Tasks:
+	- Infosys Predicted vs Actual graph, where predicted values will be from [2024-06-11 -- 2024-07-22] and actual values from [2024-06-11 - 2024-06-28]. DONE
+
+	- Apple Model Trained from [2016-06-10], Predictions from [2024-05-31], BUT window = 50. Plot graph for predicted vs actual.
+
+	- Apple Model Trained from [2016-06-10], Predictions from [2024-05-31], BUT, window = 5. Plot graph for predicted vs actual.
+
 
 
 
