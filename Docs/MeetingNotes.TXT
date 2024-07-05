@@ -62,6 +62,10 @@ _________________________________________________
 	- Apple Model Trained from [2016-06-10], Predictions from [2024-05-31], BUT, window = 5. Plot graph for predicted vs actual.
 
 
+Task:
+
+
+
 
 
 
